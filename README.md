@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript, Python and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me per Email: mstar0204@gmail.com
+- 😎 I´m currently making a audio program
 
 <!---
 UncorkedLake960/UncorkedLake960 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
